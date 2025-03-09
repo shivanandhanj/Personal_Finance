@@ -1,0 +1,12 @@
+# backend/requirements.txt
+django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.0
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.1
+numpy==1.26.0
+yfinance==0.2.31
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
+drf-yasg==1.21.7
